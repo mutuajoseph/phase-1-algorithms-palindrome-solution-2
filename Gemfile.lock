@@ -1,0 +1,13 @@
+lines (8 sloc)  107 Bytes
+   
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+
+BUNDLED WITH
+   2.3.7
